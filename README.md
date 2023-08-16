@@ -4,7 +4,7 @@
 + **Python/Pip (and dependencies)**
 ### Install dependencies:
 ```bash
-pip install tweetpy && pip install python-dotenv
+pip install pandas && pip install numpy
 ```
 # 🖥️ How to Run
 **Run the aplication:**
